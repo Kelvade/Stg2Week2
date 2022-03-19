@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    font-family: cursive, monospace, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+p.text {
+    color: aquamarine; /* Set text color to aquamarine */
+}
+#type {
+    background-color: #bdbdbd;
+    color: black;
+}
+p.a {
+    font: 20px Arial, sans-serif;
+  }
+ul {
+    text-align: center;
+    list-style-type: none;
+}
